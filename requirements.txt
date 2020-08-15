@@ -1,0 +1,4 @@
+matplotlib==3.3.1
+MiniSom==2.2.6
+matplotlib==3.3.1
+
