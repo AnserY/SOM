@@ -21,7 +21,7 @@ som.random_weights_init(data)
 #training
 som.train_random(data, iterations)
 
-
+#plot results
 bone()
 pcolor(som.distance_map().T)
 colorbar()
